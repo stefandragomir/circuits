@@ -1,0 +1,9 @@
+
+High dt -> high ripple at start (stabilisation time)
+Low dt -> low ripple at start (stabilisation time)
+
+High frequency -> low ripple after stabilisation
+Low frequency -> high ripple after stabilisation
+
+
+
